@@ -10,9 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLayoutSubviews() {
-        //
-    }
+ 
 
     override func viewDidAppear(_ animated: Bool) {
         //
